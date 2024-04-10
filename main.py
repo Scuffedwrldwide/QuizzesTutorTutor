@@ -28,7 +28,10 @@ def load_questions(folder_path):
                     questions.append(question_data)       
     return questions
 
-def print_question(question, flag, selected_option=-1):
+def print_question(question, flag, selected_option=-1, wipe=True):
+    if wipe:
+        os.system('cls' if os.name == 'nt' else 'clear')
+        sys.stdout.flush()
     print(f"\033[1m{question['question']}\033[0m\n")
     for i in range(0, len(question['options'])):
         if flag: 
@@ -45,8 +48,6 @@ def print_question(question, flag, selected_option=-1):
 def flashcard_mode(questions):
     while True:
         current = random.choice(questions)
-        os.system('cls' if os.name == 'nt' else 'clear')
-        sys.stdout.flush()
         print_question(current, False)
         answer = input("Your answer: ")
         if answer.lower() == 'q':
@@ -57,6 +58,7 @@ def flashcard_mode(questions):
             sys.stdout.write('\033[F\033[F')
             sys.stdout.write('\033[K')
         answer = ord(answer.lower()) - ord('a')
+        print_question(current, True, answer)
         if answer == current['correct_option']:
             print("\33[1m\33[92mCorrect!\33[0m")
         else:
@@ -72,7 +74,7 @@ def lookup_mode(questions):
         for question in questions:
             if lookup.lower() in question['question'].lower():
                 found = True
-                print_question(question, True)
+                print_question(question, True, wipe=False)
         if not found:
             print("No questions found.")
         next = input("Press any key to continue... ")
