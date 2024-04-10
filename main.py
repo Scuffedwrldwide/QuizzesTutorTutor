@@ -3,6 +3,7 @@ import random
 import re
 import sys
 
+
 def load_questions(folder_path):
     questions = []
     if not os.path.isdir(folder_path):
@@ -45,25 +46,40 @@ def print_question(question, flag, selected_option=-1, wipe=True):
             print("    " + question['options'][i])
     print()
 
-def flashcard_mode(questions):
+def flashcard_mode(questions, mode=1):
+    answered = 0
+    total = len(questions)
     while True:
         current = random.choice(questions)
         print_question(current, False)
-        answer = input("Your answer: ")
+        if mode == 1:
+            sys.stdout.write(f"\033[2BQuestions answered: {answered}/{total}. {len(questions)} questions left.\033[2A")
+
+        answer = input("\rYour answer: ")
         if answer.lower() == 'q':
             break
         while re.match(r'^[a-d]$', answer, re.IGNORECASE) is None:
-            print("Invalid input. Please enter a letter from a to d.")
-            answer = input("Your answer: ")
-            sys.stdout.write('\033[F\033[F')
+            print("\033[2AInvalid input. Please enter a letter from a to d.")
             sys.stdout.write('\033[K')
+            answer = input("Your answer: ")
+            if answer.lower() == 'q':
+                return
         answer = ord(answer.lower()) - ord('a')
         print_question(current, True, answer)
         if answer == current['correct_option']:
             print("\33[1m\33[92mCorrect!\33[0m")
         else:
             print(f"\33[1m\33[91mIncorrect!\33[0m The correct answer is: \033[1m\033[92m{chr(current['correct_option'] + ord('a'))}\33[0m")
-        next = input("Press any key to continue... ")
+        
+        if mode == 1:
+            answered += 1
+            sys.stdout.write(f"\033[2BQuestions answered: {answered}/{total}. {len(questions)} questions left.\033[2A")
+            questions.remove(current)
+
+        if not questions:
+            print("\rNo more questions left.")
+            break
+        next = input("\rPress any key to continue... ")
         if next == 'q':
             break
 
@@ -99,15 +115,20 @@ def main():
         sys.stdout.flush()
         os.system('cls' if os.name == 'nt' else 'clear')
         mode = input("\33[1mSelect mode:\33[0m\n\n    1. Flashcard mode\n    2. Lookup Mode\n    q. Exit\n\n")
-        while mode not in ['1', '2', 'q']:
+        while mode not in ['1', '2', 'q', 'Q']:
             mode = input("Invalid input. Please enter 1, 2 or q.\n")
             sys.stdout.write('\033[F\033[F')
             sys.stdout.write('\033[K')
 
-        if mode == 'q':
+        if mode.lower() == 'q':
             return
         elif mode == '1':
-            flashcard_mode(questions)
+            mode = input("\33[1mRemove question if correct? [y/n] ")
+            while mode.lower() not in ['y', 'n']:
+                mode = input("Invalid input. Please enter y or n.\n")
+                sys.stdout.write('\033[F\033[F')
+                sys.stdout.write('\033[K')
+            flashcard_mode(questions, 1 if mode.lower() == 'y' else 0)
 
         else:
             lookup_mode(questions)
