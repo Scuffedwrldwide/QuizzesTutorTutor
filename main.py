@@ -82,8 +82,8 @@ def lookup_mode(questions):
 def main():
     sys.stdout.flush()
     os.system('cls' if os.name == 'nt' else 'clear')
-    print("\33[1mWelcome to Quizzes Tutor Tutor! Let's get started.\33[0m\n\nFilepath:")
-    folder_path = input()
+    print("\33[1mWelcome to Quizzes Tutor Tutor! Let's get started.\33[0m\n")
+    folder_path = input("Filepath: ")
     questions = load_questions(folder_path)
 
     if not questions:
