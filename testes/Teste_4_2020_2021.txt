@@ -1,0 +1,100 @@
+1. A análise qualitativa NÃO é boa para capturar?
+ a! Eficiência
+ b) Atitudes
+ c) Comportamentos
+ d) Motivações
+2. A análise estruturada...
+ a) É um método quantitativo
+ b) É a teoria dos códigos
+ c) É a teoria das etiquetas
+ d! É um método de análise temática
+3. Uma representação útil na análise de sentimento descreve um gráfico com que eixos?
+ a) Valor (score) e saliência de sentimento
+ b! Número de vezes em que uma palavra é mencionada e valor (score) de sentimento
+ c) Saliência e magnitude de sentimento
+ d) Valor (score) e magnitude de sentimento
+4. As estratégias para otimizar velocidade num "layout" Dvorak NÃO incluem...
+ a) o colocar das teclas mais usadas na fila central do teclado
+ b) o associar das teclas mais frequentes à mão direita
+ c! o aumentar do tamanho das teclas mais frequentes
+ d) o minimizar do uso dos dedos mais "fracos"
+5. O contexto de utilização NÃO costuma ser usado para adaptar...
+ a) a apresentação
+ b) a aplicação
+ c) o conteúdo
+ d! o utilizador
+6. Os teclados de escrita Braille são teclados...
+ a) ergonómicos
+ b! de acordes
+ c) T9
+ d) alfabéticos
+7. Os assistentes de voz atuais carecem de...
+ a) capacidades de tradução
+ b) capacidades de processamento de linguagem natural
+ c! contexto de utilização
+ d) capacidades de resposta em tempo-real
+8. Os "post-its" são usados...
+ a) Em nuvens de palavras
+ b) Em análise estruturada
+ c) Em "grounded theory"
+ d! Em diagramas de afinidade
+9. Num contexto de análise de sentimento, o corpus de palavras AFINN-111 classifica o sentimento de uma palavra numa escala de...
+ a! -5 a 5
+ b) 0 a infinito
+ c) -10 a 10
+ d) -1 a 1
+10. A análise estruturada...
+ a) Parte das frequências das palavras
+ b! Parte de uma lista de conceitos chaves
+ c) Parte de uma "página em branco"
+ d) Parte de uma nuvem de palavras
+11. A quando do seu lançamento, os telemóveis Blackberry usavam um teclado com "layout"...
+ a) T9
+ b) Dvorak
+ c) alfabético
+ d! QWERTY
+12. O processo típico dos diagramas de afinidade é...
+ a! captura-agrupamento-classificação
+ b) captura-códigos-temas
+ c) classificação-códigos-temas
+ d) agrupamento-códigos-temas
+13. Os temas são...
+ a) Conjuntos de palavras com maior frequência
+ b! Grupos mutuamente exclusivos de códigos
+ c) Conjuntos de palavras relacionadas
+ d) O mesmo que códigos
+14. Qual dos seguintes NÃO é um exemplo de contexto como conteúdo?
+ a) "Tag" de conteúdo média
+ b) Contexto como dados
+ c! Adaptar a apresentação em resposta à orientação do dispositivo
+ d) Partilha em tempo-real de contexto
+15. Os estenógrafos usam normalmente teclados de...
+ a! de acordes
+ b) alfabéticos
+ c) T9
+ d) ergonómicos
+16. Qual dos seguintes NÃO é um critério de desenho de informação embebida ou implícita?
+ a) Embeber informação de uma forma não disruptiva à atividade ou atenção do utilizador
+ b) Embeber informação onde e quando for mais necessária
+ c! A informação embebida deve requerer interação quando necessário
+ d) A informação embebida não deve requerer interação
+17. Qual dos seguintes NÃO é um desafio comum à escrita num contexto de mobilidade (mobile)?
+ a) O tamanho das teclas
+ b! O "layout" do teclado
+ c) A paralaxe entre o dedo, o ecrã, e o olhar
+ d) A escrita em movimento
+18. O "layout" de escrita imposto em Portugal durante o Estado Novo foi o...
+ a) AZERTY
+ b) Colemak
+ c! HCESAR
+ d) JCUKEN
+19. O teclados alfabéticos...
+ a) produzem menos erros que teclados com "layout" QWERTY
+ b) são mais rápidos para utilizadores inexperientes
+ c! não possuem vantagens conhecidas
+ d) são mais rápidos para utilizadores experientes
+20. Qual dos seguintes NÃO é um tipo comum de informação contextual?
+ a) A emoção do utilizador
+ b) Os objetos em redor do utilizador
+ c) A localização do utilizador
+ d! Os inputs explícitos do utilizador

@@ -1,0 +1,100 @@
+1. "A hora do teste afeta o resultado dos alunos". Qual é a variável independente?
+ a! A hora do teste
+ b) A idade dos alunos
+ c) O resultado do teste
+ d) O tempo de conclusão
+2. A experiência de utilização (UX) é?
+ a! A experiência global com a tecnologia que envolve a componente afectiva
+ b) A parte "vísivel" do sistema
+ c) O mesmo que a interface utilizador
+ d) Os elementos que compõem a interface utilizador
+3. A interface utilizador (UI) é?
+ a) A metáfora do "desktop"
+ b) A parte "invisível" do sistema
+ c! A parte "visível" do sistema
+ d) O que resulta da experiência de utilização (UX)
+4. A lei de Miller diz que?
+ a) Capacidade de distinguir diferenças é proporcional à intensidade do estímulo
+ b) Minimizar # escolhas quando tempo de resposta é crítico
+ c! O humano, em média, só consegue colocar em memória de curto prazo (7 ± 2) itens
+ d) Prevê o tempo para tomar uma decisão entre várias opções igualmente prováveis
+5. A seguinte tarefa QUEBRA que princípio: "Escolher a opção Uber para comprar uma viagem e depois escrever ‘Campo Pequeno’ e selecionar a primeira opção" ?
+ a) Descrever o contexto do utilizador
+ b! Descrever o quê e não como
+ c) Ser específico
+ d) Ser real e representativo
+6. As mensagens para o utilizador NÃO devem
+ a) Ser Indicadoras de Ação
+ b) Usar a Linguagem do Utilizador
+ c) Usar a voz ativa
+ d! Usar a voz passiva
+7. Como se define o problema em que o dedo do utilizador cobre partes críticas do ecrã durante o input?
+ a) "Coupling occlusion"
+ b! "Fat finger problem"
+ c) "Finger occlusion"
+ d) "Fitts' choice"
+8. Em termos de benefícios, quando temos 15 utilizadores disponíveis para avaliações formativas, recomenda-se ...
+ a) Quinze iterações com 1 utilizador em cada uma
+ b) Três iterações com 15 utilizadores em cada uma
+ c! Três iterações com 5 utilizadores em cada uma
+ d) Uma única iteração com 15 utilizadores
+9. Na primeira heurística de usabilidade (tornar estado do sistema visível), qual é a recomendação para eventos que durem mais de 10 segundos?
+ a! Mostrar indicadores de progresso
+ b) Mostrar o tempo em falta
+ c) Mudar o cursor
+ d) Não são necessários indicadores
+10. O método de Diários é um método de ...
+ a) Observação direta
+ b! Observação indireta
+ c) Observação mista
+ d) Observação objetiva
+11. O que diz a Lei de Tesler?
+ a) Nenhuma das opções
+ b) O grau de complexidade de um qualquer sistema pode ser sempre reduzido
+ c) O humano, em média, só consegue colocar em memória de curto prazo (7 ± 2) items
+ d! Para qualquer sistema, existe um grau de complexidade que não pode ser reduzido
+12. O que indica uma média de tempo de seleção inferior à mediana?
+ a) Não existe uma relação entre a média e a mediana
+ b! Que existem alguns participantes com tempos muito abaixo da maioria dos restantes participantes
+ c) Que existem alguns participantes com tempos muito acima da maioria dos restantes participantes
+ d) Que podemos atribuir este resultado à população a partir da amostra
+13. O Skeuomorphism ...
+ a) É usado pela Google no estilo Material Design
+ b! Simula o mundo real com elementos 3D
+ c) Usa apenas elementos 2D com cores sólidas
+ d) Usa apenas elementos 2D com cores sólidas e sombreamento
+14. Qual a principal filosofia usada em IPM?
+ a) "Definir os requisitos uma só vez"
+ b! "Falhar rápido, cedo e repetidamente"
+ c) "Planear, planear e construir"
+ d) "Programar o mais rapidamente possível"
+15. Qual a regra que ajuda a limitar o número de cores numa interface?
+ a) A regra 25 / 25 / 25 / 25
+ b) A regra 40 / 40 / 20
+ c! A regra 60 / 30 / 10
+ d) A regra 70 / 20 / 10
+16. Qual das seguintes NÃO é uma das heurísticas de usabilidade de Nielsen?
+ a) Consistência e adesão a Normas
+ b) Evitar erros
+ c! Garantir escalabilidade
+ d) Tornar estado do sistema visível
+17. Qual do seguintes NÃO é um princípio base do desenho visual?
+ a) Alinhamento
+ b! Comunicação
+ c) Hierarquia visual
+ d) Proporção
+18. Qual dos seguintes dispositivos NÃO é considerado um dispositivo móvel?
+ a) O "fitness tracker"
+ b) O "smartwatch"
+ c! O portátil
+ d) O telemóvel
+19. Qual dos seguintes NÃO é relevante para a consistência interna de uma interface?
+ a) A cor
+ b) A terminologia
+ c! As convenções da plataforma
+ d) Os tipos de letra
+20. Uma recomendação de desenho que resulta da Lei de Hicks é?
+ a) Aumentar o nº de opções para facilitar a escolha
+ b) Dividir as opções em sequências de 50 items
+ c! Minimizar o nº de opções quando o tempo de resposta é crítico
+ d) O tempo para acertar num alvo depende da distância e da dimensão do alvo

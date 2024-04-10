@@ -1,0 +1,100 @@
+1. A análise temática é um processo...
+ a) Convergente
+ b) Divergente
+ c) Objetivo
+ d! Sistemático
+2. A análise temática é...
+ a) Criativa
+ b) Objetiva
+ c) Quantitativa
+ d! Subjetiva
+3. A codificação dos dados faz parte do processo de análise ...
+ a) Estatística
+ b) Nuvem de palavras
+ c) Sentimento
+ d! Temática
+4. A como se chama a análise qualitativa onde os códigos emergem dos dados?
+ a) Aberta
+ b! Emergente (grounded theory)
+ c) Estruturada (framework analysis)
+ d) Semi-estruturada
+5. A seguinte tarefa QUEBRA que princípio: "Comprar uma viagem para um destino em Lisboa" ?
+ a) Descrever o contexto do utilizador
+ b) Descrever o quê e não como
+ c! Ser específico
+ d) Ser real e representativo
+6. A Single-Ease Question é uma escala ...
+ a) Contínua
+ b) Nenhuma das opções
+ c) Nominal
+ d! Ordinal
+7. As nuvens de palavras representam...
+ a! A frequência das palavras mais comuns num texto
+ b) Frases com diferentes tamanhos
+ c) Muitas palavras relacionadas
+ d) O significado das palavras num texto
+8. Necessitam recrutar mais utilizadores para uma avaliação...
+ a) de grupos mistos
+ b) é irrelevante
+ c! intergrupos
+ d) intragrupos
+9. No caso de estudo do videojogo "Halo 3", que tipo de observação é descrita para perceber porque gastam demasiadas balas os jogadores?
+ a) Diários
+ b! Observação direta (vídeo)
+ c) Observação indireta
+ d) Registo de interação
+10. Num estudo qualitativo tipicamente são necessárias quantas pessoas?
+ a) Cerca de 30
+ b) Entre 1 a 3
+ c! Entre 3 e 7
+ d) Mais de 100
+11. O 'Google’s 41 Shades of Blue' revelou tensões entre as equipas de...
+ a) Design e marketing
+ b) Engenharia de Software e Engenharia de Requisitos
+ c! Engenharia e design
+ d) Engenharia e marketing
+12. O que descreve o Efeito do Observador?
+ a) A performance dos utilizadores pode ser afetada negativamente pelo simples facto de estarem a ser observados
+ b! A performance dos utilizadores pode ser afetada positivamente quando estão a ser observados
+ c) Como devem comportar-se os investigadores durante observações diretas
+ d) Como devem comportar-se os investigadores durante observações indiretas
+13. O que descreve um "diary study"?
+ a) O diário de responsabilidades do investigador
+ b) O registo diário de atividades num curto período de tempo
+ c! O registo diário de atividades num longo período de tempo
+ d) O registo semanal de atividades
+14. Qual dos seguintes é um exemplo de uma medida que advém de observação direta?
+ a) Diários
+ b) Registo de interação
+ c) Satisfação do utilizador
+ d! Utilizadores observados a realizar tarefas
+15. Qual dos seguintes é um método de avaliação sumativa?
+ a) "Shadowing"
+ b) Entrevistas
+ c! Testes de usabilidade
+ d) Think-aloud
+16. Qual dos seguintes NÃO é crítico na escolha de utilizadores para uma avaliação?
+ a) Como distribuir os utilizadores
+ b! Conhecer os utilizadores
+ c) Quantos utilizadores utilizar
+ d) Que utilizadores utilizar
+17. Qual dos seguintes NÃO é relevante na escolha ou descrição de uma tarefa para o utilizador?
+ a! Descrever o contexto do utilizador
+ b) Descrever o quê e não como
+ c) Ser específico
+ d) Ser real e representativo
+18. Qual dos seguintes NÃO é um tipo de dados objetivo?
+ a) Frequência cardíaca
+ b! Preferência
+ c) Taxa de sucesso
+ d) Tempo de seleção
+19. Qual o principal objetivo da inferência estatística?
+ a) Calcular medidas de tendência central da população
+ b! Generalizar resultados da amostra para a população
+ c) Inferir conclusões a partir dos resultados da população para a amostra
+ d) Ter uma visão global da amostra
+20. Quando queremos ter uma visão global de dados quantitativos devemos ...
+ a! Aplicar estatística descritiva
+ b) Aplicar inferência estatística
+ c) Calcular intervalos de confiança
+ d) Colocar os dados numa distribuição normal

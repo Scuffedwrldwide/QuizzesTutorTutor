@@ -1,0 +1,100 @@
+1. O teste t-student permite comparar...
+ a) medianas
+ b) amostras
+ c) hipóteses
+ d! médias
+2. O segundo quartil é igual à...
+ a) desvio padrão
+ b) média
+ c! mediana
+ d) moda
+3. No caso de estudo do videojogo "Halo 3", que tipo de observação é descrita para perceber porque gastam demasiadas balas os jogadores?
+ a) Observação indireta
+ b) Registo de interação
+ c! Observação direta (vídeo)
+ d) Diários
+4. Qual dos seguintes NÃO é uma consideração ética revelante?
+ a) O tempo dos participantes
+ b! Os "hobbies" dos participantes
+ c) O conforto dos participantes
+ d) A privacidade dos participantes
+5. O que indica uma média de tempo de seleção inferior à mediana?
+ a) Que podemos atribuir este resultado à população a partir da amostra
+ b! Que existem alguns participantes com tempos muito abaixo da maioria dos restantes participantes
+ c) Não existe uma relação entre a média e a mediana
+ d) Que existem alguns participantes com tempo muito acima da maioria dos restantes participantes
+6. Qual dos seguintes NÃO é normalmente considerado uma população vulnerável?
+ a! Alunos com mais de 18 anos
+ b) As crianças
+ c) Pessoas idosas
+ d) Pessoas com deficiência
+7. O que indica uma média de tempo de seleção superior à mediana?
+ a) Que existem alguns participantes com tempos muito abaixo da maioria dos restantes participantes
+ b! Que existem alguns participantes com tempos muito acima da maioria dos restantes participantes
+ c) Não existe uma relação entre a média e a mediana
+ d) Que podemos atribuir este resultado à população a partir da amostra
+8. A média é útil na interação com valores...
+ a) nominais
+ b! contínuos
+ c) intercalares
+ d) ordinais
+9. A moda é útil na interação com valores...
+ a) intercalares
+ b! nominais e ordinais
+ c) nominais e contínuos
+ d) contínuos
+10. Qual dos seguintes NÃO é um princípio ético de Investigação com Pessoas
+ a! Os meios justificam os fins
+ b) Beneficiência
+ c) Respeito pelas Pessoas
+ d) Justiça
+11. O teste qui-quadrado permite comparar...
+ a! frequências esperadas e observadas
+ b) graus de confiança
+ c) amostras
+ d) médias
+12. O que descreve o "Novelty Effect"?
+ a) A tendência dos utilizadores para detestarem uma nova solução
+ b) A tendência dos utilizadores para não compreenderem uma nova solução
+ c) A tendência dos utilizadores para preferirem uma solução tradicional
+ d! A tendência dos utilizadores para preferirem uma nova solução
+13. Uma distribuição normal tem a forma de...
+ a) um círculo
+ b) uma linha recta
+ c! um sino
+ d) uma parábola
+14. No caso de estudo do videojogo "Halo 3", que tipo de observação é descrita para perceber onde se perdem os jogadores?
+ a) Observação vídeo
+ b! Observação indireta (registo de interação)
+ c) Observação presencial
+ d) Observação direta
+15. Um gráfico "candlestick" descreve...
+ a) a mediana, Q1, Q3, mínimo, e máximo
+ b) a média, Q1, Q3, mínimo e máximo
+ c) a mediana, Q1, Q3, e desvio padrão
+ d! o Q1, Q3, mínimo, e máximo
+16. Os intervalos de confiança permitem comparar...
+ a) médias
+ b! uma média com um valor objetivo
+ c) medianas
+ d) amostras
+17. A hipótese experimental é...
+ a) a hipótese que se pode testar experimentalmente
+ b) sempre falsa
+ c! a hipótese que pretendemos verificar
+ d) a hipótese que testa a situação em que nada muda
+18. O coeficiente de correlação de Pearson permite...
+ a) comparar amostras
+ b! determinar a correlação
+ c) comparar medianas
+ d) determinar causalidade
+19. A seguintes tarefa QUEBRA que princípio: "Comprar uma viagem para um destino em Lisboa"?
+ a) Ser real e representativo
+ b! Ser específico
+ c) Descrever o quê e não como
+ d) Descrever o contexto do utilizador
+20. O objetivo da estatística descritiva é...
+ a) verificar a dispersão de resultados
+ b) compreender o comportamento da população a partir da amostra
+ c! dar uma visão global da amostra
+ d) comparar médias e medianas

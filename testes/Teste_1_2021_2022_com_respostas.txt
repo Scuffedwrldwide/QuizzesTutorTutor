@@ -1,0 +1,100 @@
+1. As heurísticas de usabilidade foram desenvolvidas por...
+ a) Steve Jobs
+ b) Steve Wozniak
+ c) Paul Fitts
+ d! Jakob Nielsen
+2. Como se define o problema em que o dedo do utilizador cobre partes críticas do ecrã durante o input?
+ a) "Finger oculision"
+ b! "Fat finger problem"
+ c) "Coupling occlusion"
+ d) "Fitts' choice"
+3. Qual das seguintes NÃO é uma das heurísticas de usabilidade de Neilsen?
+ a! Garantir portabilidade
+ b) Correspondência entre o sistema e o mundo real
+ c) Flexibilidade e eficiência
+ d) Utilizador controla e exerce livre arbítrio
+4. A falta de retorno táctil e input "eyes-free" é particularmente importante em que domínio?
+ a) No domínio dos jogos "mobile"
+ b) No domínio do "quantified-self"
+ c! No domínio das interfaces automóveis
+ d) No domínio do "web browsing"
+5. Quando comparada com a experiência de utilização (ou UX), a UI é...
+ a) mais focada na experiência global com o sistema ou tecnologia
+ b) mais focada nas emoções do utilizador
+ c) de análise mais subjetiva
+ d! de análise mais objetiva
+6. Qual dos seguintes desafios NÃO é específico a dispositivos móveis?
+ a) As modalidades de interação
+ b) O tamanho
+ c! Respeitar as heurísticas de usabilidade
+ d) O contexto de utilização
+7. Qual do seguintes NÃO é um princípio base do desenho visual?
+ a) Alinhamento
+ b! Sobreposição
+ c) Espaço em branco
+ d) Ordenação
+8. A sétima heurística de usabilidade de Nielsen (flexibilidade e eficiência) recomenda o uso de...
+ a! aceleradores
+ b) métodos empíricos
+ c) controlo por voz
+ d) métodos analíticos
+9. Qual dos seguintes é um mantra de IPM?
+ a) Bom design é bons gráficos
+ b) A interface é feito no final do projeto
+ c! Conheçam os vossos utilizadores
+ d) Bom design é senso comum
+10. Que instrução NÃO faz parte do método "think-aloud"/"pensar alto"?
+ a) "Diga em voz alta o que está a pensar"
+ b) "Questione em voz alta o que suscita dúvidas"
+ c) "Diga em voz alta o que está a tentar fazer"
+ d! "Diga em voz alta qualquer ideia que possa melhorar a interface"
+11. O que NÃO comunicam os storyboards em IPM?
+ a! Os detalhes da interface
+ b) O fluxo de navegação
+ c) Um objetivo
+ d) Uma sequência
+12. Qual dos seguintes dispositivos NÃO é considerado um dispositivo móvel?
+ a) O "fitness tracker"
+ b) O telemóvel
+ c) O "smartwatch"
+ d! O portátil
+13. Quais das seguintes disciplinas NÃO interage diretamente com IPM?
+ a! Química
+ b) Ciência da Computação
+ c) Design
+ d) Ciências Comportamentais
+14. Qual das seguintes NÃO é uma das três perspetivas de IPM?
+ a) Comunicação
+ b) Controlo
+ c! Manutenção
+ d) Inferência
+15. Qual dos seguintes NÃO é um mito de "bom design"?
+ a) Bom design é senso comum
+ b! O departamento de recursos humanos conhece os utilizadores
+ c) Bom design é bons gráficos
+ d) O departamento de marketing conhece os utilizadores
+16. Qual dos seguintes NÃO é uma estratégia na terceira heurística de usabilidade (o utilizador controla e exerce livre arbítrio)?
+ a! Controlo por voz
+ b) Back / Forward
+ c) Undo / Redo
+ d) O botão de cancel
+17. Qual das seguintes NÃO é uma recomendação da décima heurística de usabilidade de Neilsen (dar ajuda e documentação)?
+ a) Ser contextual
+ b! Revelar consistência externa
+ c) Ser fácil de pesquisar
+ d) Não ser demasiado extensa
+18. Qual dos seguintes NÃO tem um papel relevante durante a condução de testes com o método "Wizard-of-Oz"?
+ a) O observador
+ b) O "computador"/"wizard"
+ c! O temporizador
+ d) O facilitador
+19. Qual dos seguintes NÃO é um dos objetivos principais da cor?
+ a) Transmitir informação
+ b) Melhorar a estética
+ c) Atrair o olhar
+ d! Respeitar o rácio dourado
+20. Qual o modelo de desenho usado em IPM?
+ a) Cascata inversa
+ b) No-code
+ c) Cascata
+ d! Desenho iterativo

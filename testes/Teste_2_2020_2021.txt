@@ -1,0 +1,100 @@
+1. Qual dos seguintes é uma das limitações da Lei de Hick?
+ a) A complexidade da fórmula
+ b) Não contempla o número de itens disponíveis
+ c) O grande número de formulações sobre a Lei
+ d! Não contempla a carga cognitiva da seleção
+2. Qual das seguintes NÃO é uma das vantagens da avaliação heurística?
+ a) Ser de uso rápido
+ b) Ser de uso fácil
+ c! Ser suportada por plataformas de software
+ d) Ser barata
+3. Qual das seguintes NÃO é uma das heurísticas de usabilidade de Nielsen?
+ a! Garantir escalabilidade
+ b) Tornar estado do sistema visível
+ c) Evitar erros
+ d) Consistência e adesão a Normas
+4. Qual o alvo com o índice de dificuldade (ID) mais baixo numa interface Desktop (por ex., Windows 10)?
+ a) O alvo que está no centro do ecrã
+ b) O maior alvo na interface
+ c) O alvo à direita do cursor
+ d! O alvo num dos cantos do ecrã
+5. Para mantermos o mesmo índice de dificuldade (ID) ao duplicarmos a distância para um alvo temos que...
+ a) aumentar o tamanho do alvo em 50%
+ b) aumentar o tamanho do alvo em 25%
+ c! duplicar o tamanho do alvo
+ d) reduzir o tamanho do alvo em 50%
+6. Quais dos seguintes é um método de avaliação?
+ a) O método sumativo
+ b) O método de Nielsen
+ c) O método quantitativo
+ d! O método analítico
+7. Os sistemas perceptuais funcionnam:
+ a) De forma centralizada
+ b) Coordenados pelo sistema cognitivo
+ c! De forma interligada
+ d) De forma independente
+8. As propriedades relativas ao sistema auditivo são:
+ a! Intensidade, frequência e timbre
+ b) Frequência e comprimento de onda
+ c) Intensidade e estímulo
+ d) As notas musicais
+9. Qual a formulação da Lei de Fitts que usamos em IPM?
+ a! A de MacKenzie
+ b) A de Norman
+ c) A de Drewes
+ d) A de Nielsen
+10. O sistema visual permite que possamos ler palavras...
+ a! como uma unidade cognitiva
+ b) como uma imagem composta por pixels
+ c) através de reconhecimento ótico de caracteres
+ d) letra a letra
+11. Os operadores mentais do KLM são colocados:
+ a) Depois de Rs e Hs
+ b) Antes de Rs e Hs
+ c) Depois de Ps e Ks
+ d! Antes de Ps, Ks e Bs
+12. Qual dos seguintes NÃO é uma das razões para a fraca adoção de menus circulares?
+ a! A dificuldade de implementação
+ b) Ocupam muito espaço
+ c) Não escalam com facilidade
+ d) Não são familiares
+13. Necessitam recrutar mais utilizadores para uma avaliação...
+ a) é irrelevante
+ b! intergrupos
+ c) intragrupos
+ d) de grupos mistos
+14. Em termos de orçamento e tempo, numa avaliação formativa com 15 utilizadores recomenda-se...
+ a) O uso dos 15 utilizadores em 3 iterações (15x3)
+ b) O uso dos 15 utilizadores numa única iteração (15x1)
+ c) O uso de 1 dos 15 utilizadores em 15 iterações (1x15)
+ d! O uso de 5 dos 15 utilizadores em 3 iterações (5x3)
+15. O sistema visual compensa a perceção pelo/a:
+ a) Mácula, Fóvea e Nervo Ótico
+ b! Tamanho, Movimento e Alterações de Luz
+ c) Retina e Nervo Ótico
+ d) Córnea, Íris e Retina
+16. A avaliação heurística usa o...
+ a! método analítico
+ b) método empírico
+ c) o método de Fitts
+ d) método sumativo
+17. Qual dos seguintes NÃO é relevante para a consistência interna de uma interface?
+ a) Os tipos de letra
+ b) A terminologia
+ c! As convenções da plataforma
+ d) A cor
+18. Quais destes é uma regra do KLM
+ a) MKMK = K
+ b) KKKKK = M
+ c) MMMM = K
+ d! PMB = PB
+19. O 'Google's 41 Shades of Blue' revelou tensões entre as equipas de...
+ a) Engenharia e marketing
+ b) Engenharia de Software e Engenharia de Requisitos
+ c) Design e marketing
+ d! Engenharia e design
+20. O espectro audível para os humanos situa-se entre:
+ a) 200Hz a 2kHz
+ b) Acima dos 2GHz
+ c) 20KHz a 20GHz
+ d! 20Hz e 20kHz

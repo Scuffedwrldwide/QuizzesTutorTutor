@@ -1,0 +1,100 @@
+1. A distância de Levenshtein descreve...
+ a! a diferença entre duas sequências de caracteres
+ b) a distância ótima entre teclas num teclado
+ c) a distância ótima entre as mãos durante a escrita
+ d) a diferença entre frases escritas por diferentes utilizadores
+2. Qual dos seguintes NÃO é uma vantagem do Bubble Cursor?
+ a) Reduzir o movimento do cursor
+ b! Manter a consistência externa da interface
+ c) Reduzir o tempo de seleção
+ d) Reduzir o índice de dificuldade (ID)
+3. O conceito de Computação Ubíqua foi introduzido por...
+ a) Steve Jobs
+ b) Steve Wozniak
+ c! Mark Weiser
+ d) Bill Gates
+4. Qual dos seguintes NÃO é relevante para a consistência interna de uma interface?
+ a) A localização dos elementos
+ b) O aspeto visual dos elementos
+ c! Consistência com outras aplicações
+ d) As zonas da interface
+5. Uma variável do tipo "tempo" usa que escala de medida?
+ a) Intercalar
+ b) Nominal
+ c! Contínua
+ d) Ordinal
+6. Quais destes tipos NÃO são exemplos de dados qualitativos?
+ a! Escala SUSE
+ b) Gravações áudio / vídeo
+ c) Texto
+ b) Imagens
+7. A seguinte tarefa QUEBRA que princípio: "Escolher a opção Uber para comprar uma viagem e depois escrever 'Campo Pequeno' e selecionar a primeira opção"?
+ a) Ser real e representativo
+ b! Descrever o quê e não como
+ c) Descrever o contexto do utilizador
+ d) Ser específico
+8. Um dos critérios para facilmente identificar que tipo de item pode tornar-se inteligente é...
+ a) custar menos de 50€
+ b) ainda não ter componentes eletrónicas
+ c) ser portátil
+ d! custar mais de 50€ ou já ter componentes eletrónicas
+9. O que NÃO comunicam os storyboards em IPM?
+ a) Um objetivo
+ b! Os detalhes da interface
+ c) O contexto
+ d) Uma sequência
+10. Quando devemos associar uma recompensa à "performance" dos utilizadores num estudo?
+ a) Quando temos tarefas simples com regras complexas
+ b! Quando temos tarefas simples com regras claras
+ c) Quando temos tarefas complexas
+ d) Quando temos tarefas que requerem criatividade
+11. Qual dos seguintes NÃO é um dos princípios do Dieter Rams?
+ a! O Bom Design é Universal
+ b) O Bom Design é Estético
+ c) O Bom Design é Honesto
+ d) O Bom Design é Compreensível
+12. Qual dos seguintes NÃO dá liberdade ao utilizador para testar uma interface?
+ a) Um protótipo de média-fidelidade
+ b) Um protótipo implementado
+ c! Um storyboard
+ d) Um protótipo de baixa-fidelidade
+13. Qual dos seguintes NÃO é um tipo de dados objetivo?
+ a) Frequência cardíaca
+ b) Tempo de seleção
+ c) Taxa de sucesso
+ d! Preferência
+14. O 'reconhecimento' descrito na sexta heurística de usabilidade (reconhecimento em vez de lembrança) é mais facilmente suportado...
+ a) De qualquer uma das outras três opções
+ b) Na linha de comandos
+ c) Numa interface de voz
+ d! Numa graphical user interface (GUI)
+15. Na escolha de tarefas para uma avaliação sumativa devemos...
+ a) Usar tarefas complexas
+ b) Usar tarefas diferentes para cada utilizador
+ c) Usar tarefas diferentes para a maioria dos utilizadores
+ d! Usar as mesmas tarefas para todos os utilizadores
+16. A Regra dos Quatro e Meio tem como base o...
+ a) a diferença mínima perceptível
+ b) a Lei de Weber
+ c) a Lei de Fitts
+ d! o "subitizing"
+17. Qual destes nomes famosos em IPM não foi capa da Time?
+ a) Steve Jobs
+ b! Alan Dix
+ c) Bill Gates
+ d) Vanevar Bush
+18. Como se define o problema em que o dedo do utilizador cobre partes críticas do ecrã durante o input?
+ a) "Coupling occlusion"
+ b) "Finger occlusion"
+ c! "Fat finger problem"
+ d) "Fitts' choice"
+19. Num estudo qualitativo tipicamente são necessárias quantas pessoas?
+ a! Entre 3 e 7
+ b) Mais de 100
+ c) Entre 1 a 3
+ d) Cerca de 30
+20. O que descreve o Efeito do Observador?
+ a! A performance dos utilizadores pode ser afetada positivamente quando estão a ser observados
+ b) Como devem comportar-se os investigadores durante observações diretas
+ c) A performance dos utilizadores pode ser afetada negativamente pelo simples facto de estarem a ser observados
+ d) Como devem comportar-se os investigadores durante observações indiretas

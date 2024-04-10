@@ -1,0 +1,100 @@
+1. "The mother of all demos" foi feita pelo...
+ a) Alan Dix
+ b! Douglas Engelbart
+ c) Grace Hopper
+ d) Steve Jobs
+2. A computação pré-1950s caracteriza-se por...
+ a) computadores que acomodam os utilizadores
+ b) nenhuma das opções
+ c) uma larga base de utilizadores
+ d! utilizadores que acomodam os computadores
+3. A Grace Hopper ficou conhecida por...
+ a) inventar as mainframes
+ b) inventar o Altair 8800
+ c! inventar o primeiro compilador em 1950
+ d) nenhuma das opções
+4. A Lei de Weber é usada em interfaces para, por exemplo,...
+ a) assegurar a Regra dos Quatro e Meio
+ b) quantificar a experiência de utilização
+ c) quantificar a performance do utilizador
+ d! realçar elementos da interface
+5. As Interfaces Homem-Máquina (IHM) proliferaram durante...
+ a) a bolha dot.com
+ b! a revolução industrial
+ c) nenhuma das opções
+ d) o projeto Manhattan
+6. O "Long Nose of Innovation" do Bill Buxton descreve...
+ a) nenhuma das opções
+ b) que as tecnologias requerem no máximo 10 anos até ganharem tração
+ c) que as tecnologias requerem no máximo 5 anos até ganharem tração
+ d! que as tecnologias requerem pelo menos 10 anos até ganharem tração
+7. O conceito do MEMEX foi proposto por...
+ a) Bill Gates
+ b) Grace Hopper
+ c) Steve Jobs
+ d! Vannevar Bush
+8. O dynabook do Alan Key é um percursor do...
+ a) IBM PC
+ b) Macintosh
+ c) SmartPhone
+ d! Tablet
+9. O índice de dificuldade (ID) tem como parâmetros...
+ a! a distância ao alvo e tamanho do mesmo
+ b) a distância ao alvo e tempo de seleção
+ c) a taxa de sucesso e tempo de seleção
+ d) o tamanho do alvo e tempo de seleção
+10. O LilyPad é uma plataforma Arduino para projetos...
+ a) de acessibilidade
+ b) de processamento de linguagem natural
+ c) nenhuma das opções
+ d! têxteis
+11. O que inventou Ivan Sutherland?
+ a) A trackball
+ b) O tablet
+ c) Sistema de janelas para GUIs
+ d! Um sistema interativo de edição gráfica
+12. O que propôs Vannevar Bush em 1945?
+ a) Computadores com ecrãs multitoque
+ b) Computadores com interfaces gráficas
+ c! Computadores para aumentar as capacidades cognitivas
+ d) O rato
+13. O que recomenda a Lei de Tesler?
+ a) Dividir tarefas complexas em sub-tarefas para reduzir carga cognitiva
+ b) Nenhuma das opções
+ c) Tentem transferir a complexidade imposta ao sistema para o utilizador
+ d! Tentem transferir a complexidade imposta ao utilizador para o sistema
+14. O rato é um exemplo de dispositivos de movimento...
+ a) Absoluto
+ b) Depende
+ c) Híbrido
+ d! Relativo
+15. Quais dos seguintes são os parâmetros modelados pela Lei de Hick?
+ a) A distância ao alvo e tamanho do mesmo
+ b) Distância ao alvo e tempo de seleção
+ c) Taxa de sucesso e tempo de seleção
+ d! Tempo de decisão e número de itens
+16. Qual o alvo com o índice de dificuldade (ID) mais baixo numa interface Desktop (por ex., Windows 10)?
+ a) O alvo à direita do cursor
+ b! O alvo num dos cantos do ecrã
+ c) O alvo que está no centro do ecrã
+ d) O maior alvo na interface
+17. Qual o rácio humano-computador da geração da computação que vivemos (de acordo com a "framework" do Mark Weiser)?
+ a! Muitos para muitos
+ b) Muitos para um
+ c) Um para muitos
+ d) Um para um
+18. Que empresa criou primeiro computador pessoal com interface gráfica?
+ a) Apple
+ b) IBM
+ c) Microsoft
+ d! Xerox
+19. Que máquina é considerada uma percursora dos computadores?
+ a) Apple I
+ b) Dynabook
+ c! Jacquard
+ d) Macintosh
+20. Segundo a regra do "pico final" (peak-end rule) devemos ...
+ a) Focar nos momentos menos intensos da experiência
+ b) Ignorar o final da experiência
+ c) Ignorar os momentos mais intensos da experiência
+ d! Nenhuma das opções

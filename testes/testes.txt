@@ -1,0 +1,100 @@
+1. A lei de Hick modela...
+ a! tempo de tomada de decisão
+ b) diferença mínima perceptível
+ c) o número de itens num menu
+ d) tempo de movimento até um alvo
+2. "The mother of all demos" foi feita pelo...
+ a) Alan Dix
+ b! Douglas Engelbart
+ c) Steve Jobs
+ d) Grace Hopper
+3. Qual a importância de Grace Hopper para a disciplina de IPM?
+ a) Criou um novo dispositivo de entrada
+ b! Permitiu aumentar a base de utilizadores
+ c) Nenhuma das anteriores
+ d) Propôs uma nova forma de interação com computadores
+4. Qual dos seguintes é um exemplo de dispositivo de entrada absoluto?
+ a) Rato
+ b) Teclado QWERTY
+ c! Ecrã táctil
+ d) Teclado de acordes
+5. Qual a implicação da Lei de Jakob para o desenho de interfaces?
+ a) Organizar conteúdos em grupo de 4
+ b! Utilizadores vão transferir expectativas de produtos familiares
+ c) Minimizar número de escolhas
+ d) Transferir complexidade para o sistema
+6. Para mantermos o mesmo índice de dificuldade (ID) ao duplicarmos a distância para um alvo temos que...
+ a! duplicar o tamanho do alvo
+ b) reduzir o tamanho do alvo em 50%
+ c) aumentar o tamanho do alvo em 25%
+ d) aumentar o tamanho do alvo em 50%
+7. Qual a formulação da Lei de Fitts que usamos em IPM?
+ a) A de Norman
+ b! A de MacKenzie
+ c) A de Drewes
+ d) A de Nielsen
+8. Em que laboratório foi descrito o primeiro ecrã tátil multi-toque?
+ a) Nenhuma das opções
+ b! Nos Bell Labs
+ c) Na Microsoft Research
+ d) Na Xerox Parc
+9. Qual dos seguintes é uma das limitações da Lei de Hick?
+ a) Não contempla o número de itens disponíveis
+ b) A complexidade da fórmula
+ c) O grande número de formulações sobre a Lei
+ d! Não contempla o tempo de movimento do cursor
+10. A Grace Hopper ficou conhecida por...
+ a) inventar as mainframes
+ b! inventar o primeiro compilador em 1950
+ c) nenhuma das opções
+ d) inventar o Altair 8800
+11. A computação pré-1950s caracteriza-se por...
+ a) uma larga base de utilizadores
+ b! utilizadores que acomodam os computadores
+ c) nenhuma das opções
+ d) computadores que acomodam os utilizadores
+12. Qual é um dos efeitos negativos de interfaces estiticamente apelativas?
+ a! Mascarar problemas em testes de usabilidade
+ b) Torna a interface minimalista e difícil de usar por todos os utilizadores
+ c) Torna a interface minimalista e difícil de usar por utilizadores principiantes
+ d) Ser demasiado subjetiva
+13. O "Long Nose of Innovation" do Bill Buxton descreve...
+ a! que as tecnologias requerem pelo menos 10 anos até ganharem tração
+ b) nenhuma das opções
+ c) que as tecnologias requerem no máximo 10 anos até ganharem tração
+ d) que as tecnologias requerem no máximo 5 anos até ganharem tração
+14. Os três processadores do MPH são:
+ a) Motor, Visual e Auditivo
+ b) Cognitivo, Emocional e Motor
+ c! Percetual, Cognitivo e Motor
+ d) Cognitivo, Fisiológico e Motor
+15. O acrónimo MEMEX refere-se a...
+ a) nenhuma das opções
+ b! memory + index
+ c) extended + memory
+ d) memory + experience
+16. Qual dos seguintes elementos NÃO beneficia da Regra dos Quatro e Meio?
+ a) A maioria dos menus no topo das interfaces
+ b) As teclas function (F1, F2, etc.) num teclado físico
+ c) A maioria dos menus contextuais
+ d! As teclas numéricas num teclado físico
+17. O que diz a Lei de Tesler?
+ a) O grau de complexidade de um qualquer sistema pode ser sempre reduzido
+ b) Nenhuma das opções
+ c) O humano, em média, só consegue colocar em memória de curto prazo (7 ± 2) items
+ d! Para qualquer sistema, existe um grau de complexidade que não pode ser reduzido
+18. O LilyPad é uma plataforma Arduino para projetos...
+ a) de acessibilidade
+ b) nenhuma das opções
+ c) de processamento de linguagem natural
+ d! têxteis
+19. A "framework" do Mark Weiser que compara gerações de computação descreve...
+ a) 3 gerações
+ b) 5 gerações
+ c! 4 gerações
+ d) 2 gerações
+20. As Interfaces Homem-Máquina (IHM) proliferaram durante...
+ a) o projeto Manhattan
+ b) nenhuma das opções
+ c! a revolução industrial
+ d) a bolha dot.com

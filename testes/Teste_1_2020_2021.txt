@@ -1,0 +1,100 @@
+1. Qual a vantagem das fontes de texto da família "Serif"?
+ a) Evocam um efeito de nostalgia
+ b) São as mais apropriadas para ecrãs com baixa-resolução
+ c! Ajudam a ler texto corrido
+ d) Apresentam um maior contraste
+2. Qual dos seguintes NÃO é uma solução para o "fat finger problem" no contexto dos "smartwatches"?
+ a) Texto preditivo
+ b! "Back-of-the-device" (BoD)
+ c) Gestos temporais
+ d) Separação / "decoupling" do espaço de input e output
+3. Que tipo de sistema teria menos a beneficiar do método "Wizard-of-Oz"?
+ a) Interação contextual
+ b) Reconhecimento de fala
+ c! Slideshow automático de fotos
+ d) Reconhecimento de gestos
+4. Que cor é normalmente usada para comunicar o conceito de "precaução"?
+ a! A cor amarela
+ b) A cor azul
+ c) A cor vemelha
+ d) A cor verde
+5. Qual o objetivo de um botão do tipo "Raised"?
+ a) Navegação para a frente
+ b) Ação importante e ubíqua
+ c) Navegação lateral
+ d! Depende da importância relativa do botão no ecrã
+6. Nos vídeos promocionais (tipo "Kickstarter") é comum o protagonista ser...
+ a) Uma pessoa comum
+ b) O utilizador final
+ c! O inventor ou CEO da empresa
+ d) Um ator
+7. Qual dos seguintes NÃO é um elemento base (building block) do design gráfico?
+ a! Formas
+ b) Pontos
+ c) Planos
+ d) Linhas
+8. A falta de retorno táctil e input "eyes-free" é particularmente importante em que domínio?
+ a) No domínio do "quantified-self"
+ b) No domínio dos jogos "mobile"
+ c) No domínio do "web browsing"
+ d! No domínio das interfaces automóveis
+9. Um protótipo vertical é tipicamente...
+ a! Funcional e pouco abrangente
+ b) Abrangente e pouco profundo
+ c) Profundo e abrangente
+ d) Um cenário de interação
+10. Os ecrãs sensíveis ao toque são um exemplo de dispositivos de movimento...
+ a) Híbrido
+ b! Absoluto
+ c) Depende
+ d) Relativo
+11. Qual dos seguintes NÃO é um princípio base do desenho visual?
+ a! Sobreposição
+ b) Alinhamento
+ c) Espaço em branco
+ d) Ordenação
+12. Quantos são os princípios base do desenho visual?
+ a) 6
+ b) 4
+ c) 10
+ d! 8
+13. O primeiro computador pessoal com interface gráfica foi o...
+ a! Xerox Alto
+ b) Apple II
+ c) Macintosh
+ d) Apple I
+14. Que instrução NÃO faz parte do método "think-aloud"/"pensar alto"?
+ a) "Diga em voz alta o que está a tentar fazer"
+ b) "Questione em voz alta o que suscita dúvidas"
+ c) "Diga em voz alta o que está a pensar"
+ d! "Diga em voz alta qualquer ideia que possa melhorar a interface"
+15. Quando devemos transitar para um protótipo de média-fidelidade?
+ a) Após três iterações ao protótipo de baixa-fidelidade
+ b! Quando o protótipo de baixa-fidelidade estiver estável
+ c) Após o storyboard
+ d) Após uma iteração ao protótipo de baixa-fidelidade
+16. Os protótipos de vídeo são importantes para demonstrar aplicações...
+ a) De escritório (Word, Excel, etc.)
+ b) Científicas (cálculo, visualização)
+ c) De "backend" (bases de dados, etc.)
+ d! Ubíquas (smartphones, wearables, etc.)
+17. Texto com 20 pixeis (px) num ecrã com 200dpi...
+ a) É visualmente igual a texto com 20px num ecrã com 300dpi
+ b! É visualmente maior que texto com 20px num ecrã com 300dpi
+ c) É visualmente maior que texto com 40px num ecrã com 200dpi
+ d) É visualmente menor que texto com 20px num ecrã com 300dpi
+18. Os protótipos de vídeo servem tipicamente para...
+ a! Dar contexto às interfaces
+ b) Avaliar com os utilizadores finais
+ c) Convencer os investidores
+ d) Anunciar produtos
+19. Qual a metáfora central à interface da maioria dos Sistemas Operativos para PC?
+ a) A do rolodex
+ b! A do tampo de secretária (desktop)
+ c) A da estação de comboio
+ d) A da casa
+20. O dynabook do Alan Key é um percursor do...
+ a) Macintosh
+ b) IBM PC
+ c! Tablet
+ d) SmartPhone

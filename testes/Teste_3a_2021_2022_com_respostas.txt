@@ -1,0 +1,100 @@
+1. Qual o nome do "método visual" que pode ser usado para sintetizar dados durante a Análise Temática?
+ a) Análise descritiva
+ b! Diagramas de afinidade
+ c) Codificação
+ d) Agrupamento
+2. Em termos de orçamento e tempo, nuuma avaliação formativa com 15 utilizadores, recomenda-se...
+ a) O uso dos 15 utilizadores numa única iteração (15x1)
+ b) O uso de 1 dos 15 utilizadores em 15 iterações (1x15)
+ c! O uso de 5 dos 15 utilizadores em 3 iterações (5x3)
+ d) O uso dos 15 utilizadores em 3 iterações (15x3)
+3. No caso de estudo do videojogo "Halo 3", que tipo de observação é descrita para perceber onde se perdem os jogadores?
+ a! Observação indireta (registo de interação)
+ b) Observação direta
+ c) Observação presencial
+ d) Observação vídeo
+4. A análise qualitativa NÃO é boa para capturar?
+ a! Eficiência
+ b) Comportamentos
+ c) Atitudes
+ d) Motivações
+5. Qual o teste a aplicar quando queremos comparar duas médias?
+ a! Teste t
+ b) Correlação
+ c) Qui-quadrado
+ d) Intervalo de confiança
+6. Os temas são...
+ a) Conjuntos de palavras relacionadas
+ b! Grupos mutuamente exclusivos de códigos
+ c) Conjuntos de palavras com maior frequência
+ d) O mesmo que códigos
+7. Qual dos seguintes NÃO é uma consideração ética relevante?
+ a) O conforto dos participantes
+ b) A privacidade dos participantes
+ c) O tempo dos participantes
+ d! Os "hobbies" dos participantes
+8. Qual o objetivo de um teste piloto?
+ a! Testar o procedimento do estudo
+ b) Condicionar os utilizadores
+ c) Treinar os utilizadores
+ d) Relaxar os utilizadores
+9. Qual dos seguintes NÃO é um tipo de dados subjetivo?
+ a) SUS
+ b) Preferência
+ c) SEQ
+ d! Tempo de seleção
+10. O que descreve o "Novelty Effect"?
+ a) A tendência dos utilizadores para preferirem uma solução tradicional
+ b) A tendência dos utilizadores para não compreenderem uma nova solução
+ c) A tendência dos utilizadores para detestarem uma nova solução
+ d! A tendência dos utilizadores para preferirem uma nova solução
+11. "Grounded theory"...
+ a) Parte de uma nuvem de palavras
+ b) Parte das frequências das palavras
+ c! Parte de uma "página em branco"
+ d) Parte de uma lista de conceitos chave
+12. Necessitam recrutar mais utilizadores para uma avaliação...
+ a! sumativa
+ b) formativa
+ c) contextual
+ d) é irrelevante
+13. Qual dos seguintes é um exemplo de uma medida que advém de observação indireta?
+ a) "Shadowing"
+ b) Observação via vídeo
+ c) Utilizadores observados a realizar tarefas
+ d! Registo de interação
+14. As opiniões dos utilizadores em relação a uma aplicação são um tipo de dados...
+ a) Objetivo
+ b) Quantitativo
+ c) Indireto
+ d! Qualitativo
+15. A seguinte tarefa QUEBRA que princípio: "Escolher a opção Uber para comprar uma viagem e depois escrever 'Campo Pequeno' e selecionar a primeira opção"?
+ a) Descrever o contexto do utilizador
+ b) Ser real e representativo
+ c) Ser específico
+ d! Descrever o quê e não como
+16. Qual dos seguintes NÃO é um tipo de dados quantitativo?
+ a) Taxa de sucesso
+ b) Tempo de seleção
+ c) Preferência
+ d! Notas do 'think-aloud'
+17. Na escolha de tarefas para uma avaliação sumativa devemos...
+ a) Usar tarefas diferentes para a maioria dos utilizadores
+ b) Usar tarefas diferentes para cada utilizador
+ c! Usar as mesmas tarefas para todos os utilizadores
+ d) Usar tarefas complexas
+18. Quando devemos associar uma recompensa à "performance" dos utilizadores num estudo?
+ a) Quando temos tarefas simples com regras complexas
+ b) Quando temos tarefas que requerem criatividade
+ c) Quando temos tarefas complexas
+ d! Quando temos tarefas simples com regras claras
+19. Qual o teste a aplicar quando queremos comparar a média de tempos de seleção com um valor de referência?
+ a) Qui-quadrado
+ b) Teste t
+ c) Correlação
+ d! Intervalo de confiança
+20. A taxa de sucesso é um exemplo de variável...
+ a! Dependente e objetiva
+ b) Dependente e subjetiva
+ c) Independente e objetiva
+ d) Independente e subjetiva
