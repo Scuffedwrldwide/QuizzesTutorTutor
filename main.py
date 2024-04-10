@@ -61,7 +61,7 @@ def flashcard_mode(questions):
             print("\33[1m\33[92mCorrect!\33[0m")
         else:
             print(f"\33[1m\33[91mIncorrect!\33[0m The correct answer is: \033[1m\033[92m{chr(current['correct_option'] + ord('a'))}\33[0m")
-        next = input("Press any key to continue...")
+        next = input("Press any key to continue... ")
         if next == 'q':
             break
 
@@ -75,7 +75,7 @@ def lookup_mode(questions):
                 print_question(question, True)
         if not found:
             print("No questions found.")
-        next = input("Press any key to continue...")
+        next = input("Press any key to continue... ")
         if next == 'q':
             break
 
@@ -91,7 +91,8 @@ def main():
         return
     else :
         print(f"{len(questions)} questions loaded successfully.")
-        
+    
+    input("Press any key to continue... ")
     while True:
         sys.stdout.flush()
         os.system('cls' if os.name == 'nt' else 'clear')
